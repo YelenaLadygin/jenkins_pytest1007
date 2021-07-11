@@ -1,0 +1,13 @@
+[
+  "calculator_test.py::test_add_operation",
+  "calculator_test.py::test_add_operation_with_parameterize[1]",
+  "calculator_test.py::test_add_operation_with_parameterize[2]",
+  "calculator_test.py::test_add_operation_with_parameterize[3]",
+  "calculator_test.py::test_add_operation_with_parameterize[4]",
+  "calculator_test.py::test_add_operation_with_parameterize[5]",
+  "calculator_test.py::test_app_div",
+  "calculator_test.py::test_calc_add",
+  "calculator_test.py::test_calc_diff",
+  "calculator_test.py::test_calc_multp",
+  "calculator_test.py::test_divide_by_zero"
+]
